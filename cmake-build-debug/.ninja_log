@@ -1,0 +1,8 @@
+# ninja log v5
+0	629	1697597878538720873	CMakeFiles/Hospital_Queuing_System.dir/Tool.cpp.o	e5a3d6c73e9bc1cf
+2	584	1697901186014899046	CMakeFiles/Hospital_Queuing_System.dir/Main.cpp.o	740fcb5647e911a8
+0	51	1703256391411938992	build.ninja	9ab23fa0864f385c
+2	587	1697901186019084301	CMakeFiles/Hospital_Queuing_System.dir/QueueSystem.cpp.o	a9c47c46470b094c
+2	544	1697602808396386190	CMakeFiles/Hospital_Queuing_System.dir/Record.cpp.o	2444d23fb0836c74
+2	552	1697602714792135410	CMakeFiles/Hospital_Queuing_System.dir/Patient.cpp.o	f16d4e94b67655fe
+587	627	1697901186059919034	Hospital_Queuing_System	db18c96723366792
